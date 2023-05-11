@@ -19,7 +19,7 @@ export ACTIVELOOP_TOKEN=<YOUR_ACTIVELOOP_TOKEN>
 ```
 To get your OpenAI API Key, sign up for an account at https://platform.openai.com and access your API key.
 
-To get your ActiveLoop Token, create an account at https://app.activeloop.ai and obtain your key.
+To get your ActiveLoop Token, create an account at https://www.activeloop.ai and obtain your key.
 
 ## Usage
 To use the Code Question-Answering System, run the following command with the appropriate arguments:
