@@ -14,8 +14,14 @@ To install the required dependencies, run the following command:
 
 ```bash
 pip install -r requirements.txt
+
+# on mac
 export OPENAI_API_KEY=<YOUR_OPENAI_API_KEY>
 export ACTIVELOOP_TOKEN=<YOUR_ACTIVELOOP_TOKEN>
+
+# on windows
+set OPENAI_API_KEY=<YOUR_KEY>
+set ACTIVELOOP_TOKEN=<YOUR_TOKEN>
 ```
 To get your OpenAI API Key, sign up for an account at https://platform.openai.com and access your API key.
 
